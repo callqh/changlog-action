@@ -1,3 +1,10 @@
+## [0.0.6](https://github.com/metcalfc/changelog-generator/compare/v0.0.5...v0.0.6) (2021-03-26)
+
+
+### Bug Fixes
+
+* 修改目录名称 ([fc2d983](https://github.com/metcalfc/changelog-generator/commit/fc2d983e8ebe72481a7a6094c64530a592e9374a))
+
 ## [0.0.5](https://github.com/metcalfc/changelog-generator/compare/v0.0.4...v0.0.5) (2021-03-26)
 
 
