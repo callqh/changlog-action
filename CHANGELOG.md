@@ -1,3 +1,10 @@
+## [0.0.9](https://github.com/liuqh0609/changlog-action/compare/v0.0.8...v0.0.9) (2021-03-26)
+
+
+### Bug Fixes
+
+* 测试 ([3193d89](https://github.com/liuqh0609/changlog-action/commit/3193d89a5835b7d57ed618305180d8a10c2800fb))
+
 ## [0.0.8](https://github.com/liuqh0609/changlog-action/compare/v0.0.7...v0.0.8) (2021-03-26)
 
 
