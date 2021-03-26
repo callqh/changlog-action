@@ -1,5 +1,5 @@
 {
-  "name": "changelog-generator",
+  "name": "Get-the-log-in-action",
   "version": "1.0.1",
   "description": "A GitHub Action that compares the commit differences between two branches",
   "main": "dist/index.js",
@@ -36,12 +36,12 @@
     "branch",
     "difference"
   ],
-  "author": "Chad Metcalf",
+  "author": "liuqh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/metcalfc/changelog-generator/issues"
+    "url": "https://github.com/liuqh0609/Get-the-log-in-action/issues"
   },
-  "homepage": "https://github.com/metcalfc/changelog-generator#readme",
+  "homepage": "https://github.com/liuqh0609/Get-the-log-in-action",
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@actions/exec": "^1.0.4",
