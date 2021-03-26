@@ -1,29 +1,28 @@
-name: create-release
+name: Publish And Deploy Demo # 自动部署的名称
 on:
   push:
-    # Sequence of patterns matched against refs/tags
     tags:
-      - 'v*' # Push events to matching v*, i.e. v1.0, v1.0.0
+      - 'v*.*.*'
 jobs:
-  release:
+  create:
     runs-on: ubuntu-latest
     steps:
-      # To use this repository's private action, you must check out the repository
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v2
       - name: Generate changelog
         id: changelog
-        uses: metcalfc/changelog-generator@v1.0.0
+        uses: liuqh0609/Get-the-log-in-action@main
         with:
-          myToken: ${{ secrets.CHANGELOG }}
-      - name: Create Release
+          myToken: ${{ secrets.actionToken }}
+      # 第三步：发布 Release
+      - name: Create Release # 创建Release，可以在仓库看到一个个版本
         id: create_release
-        uses: actions/create-release@latest
+        uses: actions/create-release@v1
         env:
-          GITHUB_TOKEN: ${{ secrets.CHANGELOG }}
+          GITHUB_TOKEN: ${{ secrets.actionToken }} # 之前GitHub添加的Token
         with:
-          tag_name: ${{ github.ref }}
+          tag_name: ${{ github.ref }} # (tag)标签名称
           release_name: Release ${{ github.ref }}
           body: ${{ steps.changelog.outputs.changelog }}
-          draft: false
+          draft: false # 是否是草稿
           prerelease: false
