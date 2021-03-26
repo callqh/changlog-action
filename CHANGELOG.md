@@ -1,3 +1,10 @@
+## [0.0.7](https://github.com/liuqh0609/changlog-action/compare/v0.0.6...v0.0.7) (2021-03-26)
+
+
+### Bug Fixes
+
+* 打包文件 ([2a5ebcc](https://github.com/liuqh0609/changlog-action/commit/2a5ebcc610a71e3f56760ca9202a56a32966f73c))
+
 ## [0.0.6](https://github.com/metcalfc/changelog-generator/compare/v0.0.5...v0.0.6) (2021-03-26)
 
 
