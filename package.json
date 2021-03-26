@@ -1,6 +1,6 @@
 {
   "name": "changlog-action",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A GitHub Action that compares the commit differences between two branches",
   "main": "dist/index.js",
   "scripts": {

@@ -1,3 +1,10 @@
+## [0.0.5](https://github.com/metcalfc/changelog-generator/compare/v0.0.4...v0.0.5) (2021-03-26)
+
+
+### Bug Fixes
+
+* 解决依赖报错的问题 ([89910ec](https://github.com/metcalfc/changelog-generator/commit/89910ec0bec97b68ccd2eacfdfec5ade84ce9314))
+
 ## [0.0.4](https://github.com/metcalfc/changelog-generator/compare/v0.0.3...v0.0.4) (2021-03-26)
 
 
