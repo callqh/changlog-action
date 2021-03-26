@@ -1134,6 +1134,7 @@ const exec = __webpack_require__(986)
 const github = __webpack_require__(469)
 
 const src = __dirname
+console.log('目录' + __dirname)
 
 async function run() {
   try {
