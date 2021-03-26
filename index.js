@@ -3,6 +3,7 @@ const exec = require('@actions/exec')
 const github = require('@actions/github')
 
 const src = __dirname
+console.log('目录' + __dirname)
 
 async function run() {
   try {
