@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Generate changelog
         id: changelog
-        uses: liuqh0609/changlog-action@main
+        uses: metcalfc/changelog-generator@v1.0.0
         with:
           myToken: ${{ secrets.CHANGELOG }}
       # 第三步：发布 Release
