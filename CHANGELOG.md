@@ -1,3 +1,10 @@
+## [0.0.10](https://github.com/liuqh0609/changlog-action/compare/v0.0.9...v0.0.10) (2021-03-26)
+
+
+### Bug Fixes
+
+* 修改token权限 ([3c43da3](https://github.com/liuqh0609/changlog-action/commit/3c43da3b2efd185aa43d454a98509278657ce7bd))
+
 ## [0.0.9](https://github.com/liuqh0609/changlog-action/compare/v0.0.8...v0.0.9) (2021-03-26)
 
 
