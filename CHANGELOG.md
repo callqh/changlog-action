@@ -1,3 +1,10 @@
+## [0.0.3](https://github.com/metcalfc/changelog-generator/compare/v0.0.2...v0.0.3) (2021-03-26)
+
+
+### Bug Fixes
+
+* 修改权限 ([e1a4553](https://github.com/metcalfc/changelog-generator/commit/e1a4553ee16da9cd301011c8f17d58c0853bb7a0))
+
 ## [0.0.2](https://github.com/metcalfc/changelog-generator/compare/v1.0.2...v0.0.2) (2021-03-26)
 
 
