@@ -1,3 +1,10 @@
+## [0.0.2](https://github.com/metcalfc/changelog-generator/compare/v1.0.2...v0.0.2) (2021-03-26)
+
+
+### Features
+
+* 重新定义版本号 ([b932235](https://github.com/metcalfc/changelog-generator/commit/b9322358a535e40ea3d017549afd2cb886a0fad3))
+
 ## [1.0.2](https://github.com/metcalfc/changelog-generator/compare/v1.0.1...v1.0.2) (2021-03-26)
 
 
