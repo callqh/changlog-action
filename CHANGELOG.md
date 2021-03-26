@@ -1,3 +1,10 @@
+## [0.0.4](https://github.com/metcalfc/changelog-generator/compare/v0.0.3...v0.0.4) (2021-03-26)
+
+
+### Features
+
+* 发布 ([61ccc76](https://github.com/metcalfc/changelog-generator/commit/61ccc766d725cae5646d1e06a05919b8bd921eec))
+
 ## [0.0.3](https://github.com/metcalfc/changelog-generator/compare/v0.0.2...v0.0.3) (2021-03-26)
 
 
