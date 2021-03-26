@@ -1,3 +1,10 @@
+## [0.0.8](https://github.com/liuqh0609/changlog-action/compare/v0.0.7...v0.0.8) (2021-03-26)
+
+
+### Bug Fixes
+
+* 接触获取list的限制 ([5b2e7ec](https://github.com/liuqh0609/changlog-action/commit/5b2e7ec0ff57b80c7e551193b6cefeee0060bb53))
+
 ## [0.0.7](https://github.com/liuqh0609/changlog-action/compare/v0.0.6...v0.0.7) (2021-03-26)
 
 
