@@ -21,6 +21,8 @@ then
 fi
 
 log=$(git log "${base_ref}...${head_ref}" \
+  --grep=release\
+  --invert-grep\
   --pretty=format:"* - %s( [\`%h\`](http://github.com/${repo_url}/commit/%H))" \
   --reverse)
 
